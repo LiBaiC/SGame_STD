@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/Binaries/Win64
+/Saved
+/DerivedDataCache
+/Intermediate
+/SGame.VC.VC.opendb
+/SGame.VC.db
+/.vs/SGame/v14
